@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gennaro-Farina
-- 👀 I’m interested in Artificial Intelligence, Machine Laerning, Computer Vision, NLP and algorithms 
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Computer Vision, NLP and algorithms in general
 - 🌱 I’m currently learning to be more organised 😳
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
