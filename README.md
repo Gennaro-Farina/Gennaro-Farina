@@ -3,9 +3,16 @@
 - 🌱 I’m currently learning to be more organised 😳
 - 📫 How to reach me: https://www.linkedin.com/in/gennarofarina/
 
-On this Github you will find only a few projects publicly accessible. Other projects are in private repositories, my intention is to work on them a bit and step by step  make them public.
+<p>
+  <b>Description:</b><br>
+ On this Github you will find only a few projects publicly accessible. Other projects are in private repositories, my intention is to work on them a bit and step by step  make them public.
 
-I'm open to collaborations. Better if on computer vision/AI, especially the ones concerning healt-care, automotive and other cool areas.
+<b> Personal project </b> <i>- the reason I'm using github for personal projects as well:</i><br>
+ During my undergraduate years, I never seriously considered version control tools, even having explored them. I saw them as a useless waste of time, being the only contributor. Now I find myself with folders that although organized contain dozens of versions of my software projects, finding the latest version is proving to be an NP-Complete problem. This is why just before entering the professional world I started using version control systems.
+</p>
+
+<b> Collaborations </b>
+  I'm open to collaborations. Better if on computer vision/AI, especially the ones concerning healt-care, automotive and other cool areas.
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
