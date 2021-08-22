@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @Gennaro-Farina
 - 👀 I’m a developer interested in Artificial Intelligence, Machine Learning, Computer Vision, NLP and algorithms in general
 - 🌱 I’m currently learning to organise code better and better 😳
-- 📫 How to reach me: https://www.linkedin.com/in/gennarofarina/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gennarofarina/" >LinkedIn</a>
 - 🎓 <a href="https://www.unisa.it/">UniSa</a> and <a href= "https://www.uniparthenope.it/"> UniParthenope</a>
 
 <b>Description:</b>
