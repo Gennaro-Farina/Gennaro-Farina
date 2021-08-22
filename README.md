@@ -6,7 +6,9 @@
 - 👀 I’m a developer interested in Artificial Intelligence, Machine Learning, Computer Vision, NLP and algorithms in general
 - 🌱 I’m currently learning to organise code better and better 😳
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gennarofarina/" >LinkedIn</a>
-- 🎓 <a href="https://www.unisa.it/">UniSa</a> and <a href= "https://www.uniparthenope.it/"> UniParthenope</a>
+- 🎓 Education <br> 
+  - Universities: <a href="https://www.unisa.it/">UniSa</a> and <a href= "https://www.uniparthenope.it/"> UniParthenope</a> 
+  - High School: <a href="https://www.itimedi.it/"> Istituto Tecnico Industriale Enrico Medi</a>
 
 <b>Description:</b>
 ---
