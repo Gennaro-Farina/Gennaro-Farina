@@ -9,6 +9,7 @@
 - 🎓 Education <br> 
   - Universities: <a href="https://www.unisa.it/">UniSa</a> and <a href= "https://www.uniparthenope.it/"> UniParthenope</a> 
   - High School: <a href="https://www.itimedi.it/"> Istituto Tecnico Industriale Enrico Medi</a>
+- ☕ preferred languages: Python, MATLAB, C++, Java
 
 <b>Description:</b>
 ---
