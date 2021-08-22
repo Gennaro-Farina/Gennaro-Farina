@@ -3,9 +3,10 @@
 
 
 - 👋 Hi, I’m @Gennaro-Farina
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Computer Vision, NLP and algorithms in general
-- 🌱 I’m currently learning to be more organised 😳
+- 👀 I’m a developer interested in Artificial Intelligence, Machine Learning, Computer Vision, NLP and algorithms in general
+- 🌱 I’m currently learning to organise code better and better 😳
 - 📫 How to reach me: https://www.linkedin.com/in/gennarofarina/
+- 🎓 <a href="https://www.unisa.it/">UniSa</a> and <a href= "https://www.uniparthenope.it/"> UniParthenope</a>
 
 <b>Description:</b>
 ---
