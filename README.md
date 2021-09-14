@@ -12,31 +12,31 @@
     <td> Company name/affiliation</td>
     <td> Sub-division </td>
     <td> Tags </td>
-  <tr>
+  </tr>
    
   <tr>
     <td> <a href= "https://www.almawave.it/it/">Almawave</a> (current)</td>
     <td> Cognitive solutions </td>
     <td> NaturalLanguageProcessing, AI </td>
-  <tr>
+  </tr>
     
   <tr>
     <td> <a href="https://capgemini-engineering.com/it/it/" > Capgemini Engineering </td>
     <td> Advanced Signal Processing and Cognitive Computing </td>
     <td> Algorithms, Computer Vision, Clustering, Optimization, AI</td>
-  <tr>
+  </tr>
     
   <tr>
     <td> <a href="https://www.uniparthenope.it/" > Università degli Studi di Napoli Parthenope </td>
     <td> <a href="https://informatica.uniparthenope.it/index.php/it/"> Computer Science department</a> </td>
     <td> Database class tutor, SQL, PL/SQL, NoSQL </td>
-  <tr>
+  </tr>
     
    <tr>
     <td> <a href="https://www.consorzio-cini.it/index.php/it/" > Consorzio Interuniversitario Nazionale per l’Informatica </td>
     <td> </td>
     <td> Image Processing, Computer Vision </td>
-  <tr>
+  </tr>
   <table>
 
 - 🎓 Education <br> 
