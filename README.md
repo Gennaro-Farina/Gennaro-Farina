@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>
-      Driving assistant for on-board side activities
+      A driving assistant for on-board side activities, with vocal command recognition and rasperry-arduino communications
     </td>
     <td>
       https://github.com/Gennaro-Farina/Carina-Car-Assistant
