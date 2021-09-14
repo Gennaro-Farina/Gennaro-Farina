@@ -22,6 +22,30 @@
  During my undergraduate years, I never seriously considered version control tools, even having explored them. I saw them as a useless waste of time, being the only contributor. Now I find myself with folders that although organized contain dozens of versions of my software projects, finding the latest version is proving to be an NP-Complete problem. This is why just before entering the professional world I started using version control systems.
 </p>
 
+<h3>Some repositories</h3>
+
+<table>
+  <tr>
+    <td> Description</td>
+    <td> Link </td>
+  <tr>
+    <td>
+      A SIR model applied to covid realtime pandemic data
+    </td>
+    <td>
+        https://github.com/Gennaro-Farina/SARS-COV2019
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Driving assistant for on-board side activities
+    </td>
+    <td>
+      https://github.com/Gennaro-Farina/Carina-Car-Assistant
+    </td>
+  </tr>
+</table>
+
 <b> Collaborations </b>
 ---
   I'm open to collaborations. Better if on computer vision/AI, especially the ones concerning healt-care, automotive and other cool areas.
