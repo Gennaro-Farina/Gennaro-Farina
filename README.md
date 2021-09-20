@@ -6,7 +6,7 @@
 - 👀 I’m a developer interested in Artificial Intelligence, Machine Learning, Computer Vision, NLP and algorithms in general
 - 🌱 I’m currently learning to organise code better and better 😳
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gennarofarina/" >LinkedIn</a>
-- Working/Academic experiences:
+- Working<!--/Academic--> experiences:
   <table>
   <tr>
     <td> Company name/affiliation</td>
@@ -17,7 +17,7 @@
   <tr>
     <td> <a href= "https://www.almawave.it/it/">Almawave</a> (current)</td>
     <td> Cognitive solutions </td>
-    <td> NaturalLanguageProcessing, AI </td>
+    <td> Natural Language Processing, AI </td>
   </tr>
     
   <tr>
