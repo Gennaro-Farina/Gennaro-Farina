@@ -50,20 +50,24 @@
 ---
 <p>
  On this Github you will find only a few projects publicly accessible. Other projects are in private repositories, my intention is to work on them a bit and step by step  make them public.<br>
-
-<b> Personal project </b> <i>- the reason I'm using github for personal projects as well:</i><br>
- During my undergraduate years, I never seriously considered version control tools, even having explored them. I saw them as a useless waste of time, being the only contributor. Now I find myself with folders that although organized contain dozens of versions of my software projects, finding the latest version is proving to be an NP-Complete problem. This is why just before entering the professional world I started using version control systems.
 </p>
 
-<h3>Some repositories</h3>
-
+<b>Some repositories</b>
+---
+<h3>Personal </h3>
+<h5> Some extra work projects.</h5>
+    <p>
+<b> Personal project </b> <i>- the reason I'm using github for personal projects as well:</i><br>
+During my undergraduate years, I never seriously considered version control tools, even having explored them. I saw them as a useless waste of time, being the only contributor. Now I find myself with folders that although organized contain dozens of versions of my software projects, finding the latest version is proving to be an NP-Complete problem. This is why just before entering the professional world I started using version control systems.
+      Here are some links:
+</p>
 <table>
   <tr>
-    <td> Description</td>
-    <td> Link </td>
+    <td> <b>Description</b></td>
+    <td> <b>Link </b></td>
   <tr>
     <td>
-      A SIR model applied to covid realtime pandemic data
+      <i> A SIR model applied to SARS-CoV-2 (Covid-19) realtime pandemic data</i>
     </td>
     <td>
         https://github.com/Gennaro-Farina/SARS-COV2019
@@ -71,7 +75,7 @@
   </tr>
   <tr>
     <td>
-      A driving assistant for on-board side activities, with vocal command recognition and rasperry-arduino communications
+      <i> A driving assistant for on-board side activities, with vocal command recognition and rasperry-arduino communications</i>
     </td>
     <td>
       https://github.com/Gennaro-Farina/Carina-Car-Assistant
@@ -79,8 +83,79 @@
   </tr>
 </table>
 
+<h3> Coursera </h3>
+<h5> Side repositories containing: personal notes, solutions to exercises and other resources. </h5>
+<p>
+Here are some side repository and personal notes on some online courses:
+</p>
+<table>
+  <tr>
+    <td> <b>Description</b></td>
+    <td> <b>Link to repository</b> </td>
+    <td> <b>Link to original course</b></td>
+    <td> <b>Provider</b></td>
+    <td> <b>Kind</b> </td>
+  </tr>
+  <tr>
+    <td>
+      DeepLearning.ai TF Developer specialization
+    </td>
+    <td>
+        https://github.com/Gennaro-Farina/GF_DLAI_TFdeveloper
+    </td>
+    <td>
+        https://www.coursera.org/professional-certificates/tensorflow-in-practice
+    </td>
+    <td>
+        DeepLearning.ai
+    </td>
+    <td>
+        Specialization
+    </td>
+  </tr>
+  <!-- entry 2 -->
+  <tr>
+    <td>
+      Natural Language Processing with Sequence Models
+    </td>
+    <td>
+        https://github.com/Gennaro-Farina/GF_Coursera_NLP_with_seqModels
+    </td>
+    <td>
+        https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing
+    </td>
+     <td>
+        DeepLearning.ai
+    </td>
+    <td>
+        Course
+    </td>
+  </tr>
+  <!-- entry 3 -->
+  <tr>
+    <td>
+        Machine learning with Python
+    </td>
+    <td>
+        https://github.com/Gennaro-Farina/Coursera-IBM-ML-course
+    </td>
+    <td>
+        https://www.coursera.org/learn/machine-learning-with-python
+    </td>
+     <td>
+        IBM
+    </td>
+    <td>
+        Course
+    </td>
+  </tr>
+</table>    
+    
+    
+    
 <b> Collaborations </b>
 ---
+    
   I'm open to collaborations. Better if on computer vision/AI, especially the ones concerning healt-care, automotive and other cool areas.
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
