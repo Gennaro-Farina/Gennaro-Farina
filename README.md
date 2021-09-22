@@ -9,7 +9,7 @@
 - Working<!--/Academic--> experiences:
 
   <details>
-  <summary> 👉Click to expand/collapse👈
+  <summary> 👉Click here to expand/collapse👈
   </summary>
 
     <p>
@@ -126,7 +126,13 @@ During my undergraduate years, I never seriously considered version control tool
 
 <h3> Coursera </h3>
 <h5> Side repositories containing: personal notes, solutions to exercises and other resources. </h5>
+
+<details>
+  <summary> 👉Click here to expand/collapse👈
+  </summary>
+
 <p>
+  <br>
 Here are some side repository and personal notes on some online courses:
 </p>
 <table>
@@ -192,6 +198,8 @@ Here are some side repository and personal notes on some online courses:
   </tr>
 </table>    
     
+</details>
+
     
     
 <b> Collaborations </b>
