@@ -134,6 +134,8 @@ During my undergraduate years, I never seriously considered version control tool
 <p>
   <br>
 Here are some side repository and personal notes on some online courses:
+  
+  > :warning: **If the links don't work**: I'm working on the unreachable repos to make them public(they are currently private) !
 </p>
 <table>
   <tr>
