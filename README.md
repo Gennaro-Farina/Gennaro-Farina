@@ -81,7 +81,7 @@
 -->
 
 - 🎓 Education <br> 
-  - Universities: <a href="https://www.unisa.it/">UniSa</a> and <a href= "https://www.uniparthenope.it/"> UniParthenope</a> 
+  - Universities (M.Sc and B.Sc): <a href="https://www.unisa.it/">UniSa</a> and <a href= "https://www.uniparthenope.it/"> UniParthenope</a> 
   - High School: <a href="https://www.itimedi.it/"> Istituto Tecnico Industriale Enrico Medi</a>
 - ☕ preferred languages: Python, MATLAB, C++, Java
   - I've worked with: PL/SQL, SQL, Swift, C, CUDA C, MaxMSP (Max8), SWI-PROLOG, LaTeX, ASM68000, ASMx86
