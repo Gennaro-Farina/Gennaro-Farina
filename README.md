@@ -206,7 +206,7 @@ Here are some side repository and personal notes on some online courses:
 <b> Collaborations </b>
 ---
     
-  I'm open to collaborations. Better if on computer vision/AI, especially the ones concerning healt-care, automotive and other cool areas.
+  I'm searching for collaborations, for small side-projects also, to work on in my spare time. I would prefer tasks on computer vision/AI, especially the ones concerning healt-care, automotive and other cool areas, but I also evaluate other topics. Feel free to reach out on LinkedIn.
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
