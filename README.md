@@ -129,6 +129,14 @@ During my undergraduate years, I never seriously considered version control tool
       https://github.com/Gennaro-Farina/Carina-Car-Assistant
     </td>
   </tr>
+  <tr>
+    <td>
+      <i> An implementation of DiffEdit method for diffusion generated masks and inpainting </i>
+    </td>
+    <td>
+      https://github.com/Gennaro-Farina/DiffEdit
+    </td>
+  </tr>
 </table>
 
 <h3> Coursera </h3>
