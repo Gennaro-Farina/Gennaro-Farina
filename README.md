@@ -137,6 +137,14 @@ During my undergraduate years, I never seriously considered version control tool
       https://github.com/Gennaro-Farina/DiffEdit
     </td>
   </tr>
+  <tr>
+    <td>
+      <i>a DiffEdit implementation repo</i>
+    </td>
+    <td>
+      https://github.com/Gennaro-Farina/DiffEdit
+    </td>
+  </tr>
 </table>
 
 <h3> Coursera </h3>
