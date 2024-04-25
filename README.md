@@ -83,7 +83,6 @@
     <td> <a href="https://www.consorzio-cini.it/index.php/it/" > Consorzio Interuniversitario Nazionale per l’Informatica </td>
     <td> </td>
     <td> Image Processing, Computer Vision </td>
-  </tr>
   </table>
 -->
 
@@ -110,6 +109,14 @@ During my undergraduate years, I never seriously considered version control tool
       Here are some links:
 </p>
 <table>
+    <tr>
+    <td>
+      <i> An implementation of DiffEdit method for diffusion generated masks and inpainting </i>
+    </td>
+    <td>
+      https://github.com/Gennaro-Farina/DiffEdit
+    </td>
+  </tr>
   <tr>
     <td> <b>Description</b></td>
     <td> <b>Link </b></td>
@@ -127,14 +134,6 @@ During my undergraduate years, I never seriously considered version control tool
     </td>
     <td>
       https://github.com/Gennaro-Farina/Carina-Car-Assistant
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <i> An implementation of DiffEdit method for diffusion generated masks and inpainting </i>
-    </td>
-    <td>
-      https://github.com/Gennaro-Farina/DiffEdit
     </td>
   </tr>
 </table>
