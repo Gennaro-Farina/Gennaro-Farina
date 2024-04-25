@@ -109,17 +109,18 @@ During my undergraduate years, I never seriously considered version control tool
       Here are some links:
 </p>
 <table>
-    <tr>
+  <tr>
+    <td> <b>Description</b></td>
+    <td> <b>Link </b></td>
+  </tr>
+  <tr>
     <td>
-      <i> An implementation of DiffEdit method for diffusion generated masks and inpainting </i>
+      <i> An implementation of <a href="https://arxiv.org/abs/2210.11427"><b>DiffEdit</b></a> method for diffusion generated masks and inpainting </i>
     </td>
     <td>
       https://github.com/Gennaro-Farina/DiffEdit
     </td>
   </tr>
-  <tr>
-    <td> <b>Description</b></td>
-    <td> <b>Link </b></td>
   <tr>
     <td>
       <i> A SIR model applied to SARS-CoV-2 (Covid-19) realtime pandemic data</i>
